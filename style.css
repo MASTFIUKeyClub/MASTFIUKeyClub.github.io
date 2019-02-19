@@ -7,11 +7,16 @@ main {
 }
 
 .card {
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .card:first-of-type {
     margin-top: 5px;
+}
+
+.img-powerpoint {
+    margin-top: 7px;
+    margin-bottom: 7px;
 }
 
